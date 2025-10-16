@@ -1,19 +1,55 @@
 # Keyboard Layouts for macOS
 
 1. Phonetic keyboard layouts for macOS
-	- UK phonemic
 	- US phonemic
+	- UK phonemic
+	- UK rhotic
 	- Shavian (aka "Shaw QWERTY")
+	- Shaw Imperial
 2. Other layouts for macOS
 	- ESL
-	- ASERT
+	- ASERTH (QWERTY-flip-twist)
 	- US Writer
 
 ---
 
-## Phonetic layouts
+## Phonemic layouts
 
-These keyboard layouts are designed for writing in English phonemically, using either the IPA notation or Shavian Alphabet.
+These keyboard layouts are designed for writing in English phonemically, using either the IPA notation or the Shavian Alphabet.
+All the phonemic layouts are compatible with Shavian QWERTY, thus may also be used for learning typing in the Shavian Alphabet.
+
+### US phonemic
+
+Designed for typing English phonemically, specifically using General American (GA) phonemes.
+The layout is very simiar to the "UK rhotic" except that the long vowels and the R-colored vowels are shortened:
+⟨ɜr⟩, ⟨ər⟩, ⟨ɑr⟩, ⟨ɔr⟩, ⟨er⟩, ⟨ɪər⟩.
+
+### UK phonemic
+
+Designed for typing English phonemically, specifically using Received Pronunciation (RP) phonemes.
+The R-colored vowels are distinguished by subscript "r" ⟨ʳ⟩:
+⟨ɜːʳ⟩, ⟨əʳ⟩, ⟨ɑːʳ⟩, ⟨ɔːʳ⟩, ⟨eəʳ⟩, ⟨ɪəʳ⟩.
+
+### UK rhotic
+
+Designed for typing English phonemically, specifically using Received Pronunciation (RP) phonemes.
+The R-colored vowels are distinguished by retular "r" ⟨r⟩:
+⟨ɜːr⟩, ⟨ər⟩, ⟨ɑːr⟩, ⟨ɔːr⟩, ⟨eər⟩, ⟨ɪər⟩.
+
+### Differences between US and UK notations:
+
+|  UK  | UK rhotic |  US  |
+|:----:|:---------:|:----:|
+|  ɑː  |    ɑː     |  ɑ   |
+|  ɔː  |    ɔː     |  ɔ   |
+|  uː  |    uː     |  u   |
+|  iː  |    iː     |  i   |
+|  ɑːʳ |    ɑːr    |  ɑr  |
+|  ɔːʳ |    ɔːr    |  ɔr  |
+|  ɜːʳ |    ɜːr    |  ɜr  |
+|  əʊ  |    əʊ     |  ɔʊ  |
+|  ʊəʳ |    ʊər    |  ʊr  |
+|  eəʳ |    eər    |  er  |
 
 ---
 
@@ -44,10 +80,20 @@ Layer 4 (Option+Shift+key):
 	- ⌥⇧f - ◌̄ (U+0304) combining macron /ˈmækrɒn/
 	- ⌥⇧g - ◌̱ (U+0331) combining macron below
 
-### ASERT
+### ASERTH
 
 The ASERT layout is very similar to widely known Colemak-DH layout, designed for people who are already proficient with the QWERTY layout, in order to expedite learning.
 
+This layout is based on [QWERTY-Flip-Twist](https://github.com/nick-gravgaard/qwerty-flip>QWERTY-Flip-Twist) by Nick Gravgaard.
+The **AltGr** and **AltGr+Shift** layers are similar to the **Writer** layout.
+
+Total of 14 keys relocated according to scheme:
+
+* flip **ERT** with **DFG**
+* flip **N** with **J**, **K** with **I**
+* twist: **L → ; → P → O → L**
+
+This layout (ASERTH or QWERTY-flip-twist) focus on **reducing the learning curve** while being *almost* as efficient as Colemak.
 
 ### Writer
 
