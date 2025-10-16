@@ -24,3 +24,6 @@ logs/
 # icon files
 *.ico
 *.icns
+
+# macOS DMG packages
+*.dmg
