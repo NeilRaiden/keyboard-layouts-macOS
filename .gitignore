@@ -27,3 +27,6 @@ logs/
 
 # macOS DMG packages
 *.dmg
+
+# icon set files
+*.icns
