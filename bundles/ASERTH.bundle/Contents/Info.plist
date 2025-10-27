@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.asert</string>
+	<string>org.sil.ukelele.keyboardlayout.us-writer</string>
 	<key>CFBundleName</key>
-	<string>ASERT</string>
+	<string>ASERTH</string>
 	<key>CFBundleVersion</key>
-	<string></string>
+	<string>1.0</string>
 	<key>KLInfo_ASERTH</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
-		<true/>
+		<false/>
 		<key>TISIconIsTemplate</key>
-		<true/>
+		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.asert.aserth</string>
+		<string>org.sil.ukelele.keyboardlayout.us-writer.aserth</string>
 		<key>TISIntendedLanguage</key>
 		<string>en-US</string>
 	</dict>

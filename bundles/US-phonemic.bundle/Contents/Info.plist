@@ -8,16 +8,16 @@
 	<string>US-phonemic</string>
 	<key>CFBundleVersion</key>
 	<string></string>
-	<key>KLInfo_US-fonemik</key>
+	<key>KLInfo_US Phonemic</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISIconIsTemplate</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.unsavedukeleledocument.us-fonemik</string>
+		<string>org.sil.ukelele.keyboardlayout.unsavedukeleledocument.usphonemic</string>
 		<key>TISIntendedLanguage</key>
-		<string>en</string>
+		<string>en-US</string>
 	</dict>
 </dict>
 </plist>

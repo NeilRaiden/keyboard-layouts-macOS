@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.shawqwerty</string>
+	<string>org.sil.ukelele.keyboardlayout.uk-phonemic</string>
 	<key>CFBundleName</key>
-	<string>ShawImperial</string>
+	<string>UK-phonemic</string>
 	<key>CFBundleVersion</key>
-	<string>1.0</string>
-	<key>KLInfo_𐑦𐑥𐑐𐑽𐑾𐑤</key>
+	<string></string>
+	<key>KLInfo_UK Phonemic</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISIconIsTemplate</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.shawqwerty.𐑦𐑥𐑐𐑽𐑾𐑤</string>
+		<string>org.sil.ukelele.keyboardlayout.uk-phonemic.ukphonemic</string>
 		<key>TISIntendedLanguage</key>
-		<string>en</string>
+		<string>en-GB</string>
 	</dict>
 </dict>
 </plist>
