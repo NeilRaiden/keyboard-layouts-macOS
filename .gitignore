@@ -30,3 +30,6 @@ logs/
 
 # icon set files
 *.icns
+
+# macOS trash
+.DS_Store
