@@ -8,5 +8,16 @@
 	<string>ShawQWERTY</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
+	<key>KLInfo_𐑖𐑱𐑝𐑾𐑯</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISIconIsTemplate</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.shawqwerty.𐑖𐑱𐑝𐑾𐑯</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
 </dict>
 </plist>
